@@ -1,0 +1,18 @@
+[ODBC]
+DRIVER=PostgreSQL ANSI
+UID=postgres
+PORT=5433
+SERVER= 192.168.1.252
+DATABASE=kwdbase
+PWD='tsa300790'
+
+
+[TSA]
+Fpicture='image'
+Fjudul1=Material And Orders Control
+Fjudul2=Intergrated System
+Fjudul3=
+
+
+
+

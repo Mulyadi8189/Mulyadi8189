@@ -1,0 +1,17 @@
+[ODBC]
+Driver=MySQL ODBC 5.3 ANSI Driver 
+Server=192.168.1.141
+Database=tpbdb
+UID=beacukai
+PWD=beacukai
+Option=3
+
+[TSA]
+Fpicture='image'
+Fjudul1=Material And Orders Control
+Fjudul2=Intergrated System
+Fjudul3=
+
+
+
+
